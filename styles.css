@@ -6,8 +6,10 @@
             background-color: #011e29;
             padding:10px;
             text-align: center;
-            color:white;
         }
+		header > h1{
+			color:white;
+		}
         .articles{
             display: flex;
             gap:20px;
