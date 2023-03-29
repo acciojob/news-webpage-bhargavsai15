@@ -4,8 +4,8 @@
         }
         header{
             background-color: #011e29;
+			text-align: center;
             padding:10px;
-            text-align: center;
         }
 		header > h1{
 			color:white;
