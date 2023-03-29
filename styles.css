@@ -15,13 +15,13 @@
             justify-content: space-around;
             margin: 10px 30px;
         }
-        .latest-articles{
+        .latest-news-section{
             background-color: white;
             height: 200px;
             width:70%;
             border-radius: 10px;
         }
-        .latest-articles > h3{
+        .latest-news-section > h3{
             text-align: center;
         }
         .latest-articles > .list-items{
@@ -35,7 +35,6 @@
             text-align: center;
             width:100%;
             height: 300px;
-            padding: 10px;
         }
         .pictorial-articles{
             background-color: white;
