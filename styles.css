@@ -33,15 +33,18 @@
         .main-article{
             background-color: white;
             text-align: center;
+			border-radius:20px;
             width:100%;
             height: 300px;
         }
         .pictorial-news-section{
             background-color: white;
             width:50%;
+			padding:10px;
             display: flex;
             flex-direction: column;
-            align-items: center;
+			border-radius:20px;
+/*             align-items: center; */
 			text-align:center;
         }
         .pictorial-news-section > .pictorial-images > img{
